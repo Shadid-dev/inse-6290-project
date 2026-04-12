@@ -1,0 +1,12 @@
+{
+  "forecast_metrics": {
+    "Baseline_MAE": 11697.65,
+    "Baseline_RMSE": 30583.847877760574,
+    "RF_MAE": 4385.542930627202,
+    "RF_RMSE": 6730.124106224072
+  },
+  "dataset_rows": 1450,
+  "train_weeks": 127,
+  "test_weeks": 10,
+  "meals": 10
+}

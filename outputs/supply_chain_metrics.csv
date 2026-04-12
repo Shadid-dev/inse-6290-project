@@ -1,0 +1,12 @@
+,Baseline,AI-RF
+Total Demand,3750980.0,3750980.0
+Total Sales,3750980.0,3744435.0
+Total Ordered,10503655.0,4884418.0
+Fill Rate,1.0,0.9983
+Stockout Rate,0.0,0.0017
+Food Waste %,0.4836,0.107
+Inventory Turnover,23.86,84.0
+Revenue ($),885638378.0,884815868.0
+COGS ($),1112218509.0,478540668.0
+Waste Cost ($),580279176.0,63851113.0
+Gross Profit ($),-806859307.0,342424086.0

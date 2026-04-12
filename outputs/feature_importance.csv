@@ -1,0 +1,11 @@
+Feature,Importance
+emailer_for_promotion,0.4163
+price_ratio,0.1752
+lag_1,0.1448
+price_discount,0.0864
+meal_id,0.0473
+week_of_year,0.0398
+lag_4,0.034
+rolling_8,0.0333
+rolling_4,0.0224
+homepage_featured,0.0005
