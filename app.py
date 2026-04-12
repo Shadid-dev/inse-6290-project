@@ -1,9 +1,5 @@
 """
-INSE 6290 – AI-Based Demand Forecasting & Inventory Optimization
-Concordia University, Winter 2026
 
-Real Dataset: foodDemand_train (456k rows, 145 weeks, 77 centers, 51 meals)
-Run:  streamlit run app.py
 """
 
 from pathlib import Path
