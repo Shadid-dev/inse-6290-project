@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Mac system files
+.DS_Store
+.AppleDouble
+
+# Word temp files
+~$*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
